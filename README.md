@@ -1,14 +1,13 @@
 #Getdata_assignment2
 #How the script works
-#Download the file and unzip it.
-# Read all data into separate variables
-# Change column names using features text
-#Combine data into 1 set
-#Select columns related to mean and std only
-#Apply activity labels
-#change column names to more readable/clean versions
-
-#Write output in wide format
+#1. Download the file and unzip it.
+#2.  Read all data into separate variables
+#3.  Change column names using features text
+#4. Combine data into 1 set
+#5. Select columns related to mean and std only
+#6. Apply activity labels
+#7. change column names to more readable/clean versions
+#8. Write output in wide format
 
 #Code book
 #Rownumber         Variableaname
